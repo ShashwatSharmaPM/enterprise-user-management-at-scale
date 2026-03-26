@@ -1,6 +1,6 @@
 # Enterprise User Management at Scale
 
-> Designing self-service RBAC for a multi-tenant SaaS platform with 100K+ users, turning an internal bottleneck into a customer-facing capability.
+> Designing self-service RBAC for a multi-tenant SaaS platform, turning an internal bottleneck into a customer-facing capability.
 
 ## Context
 
